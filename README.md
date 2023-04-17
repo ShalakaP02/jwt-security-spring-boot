@@ -1,2 +1,2 @@
 # jwt-security-spring-boot
-This repo implements JWT + role based security using spring boot
+Implemented JWT + role based Spring Boot Security 
